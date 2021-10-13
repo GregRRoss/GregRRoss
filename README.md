@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregRRoss
-- 🌱 I’m currently learning ... Distributed Systems (Java, Linux, AWS)
+- 🌱 I’m currently learning ... Embedded Systems
 - I code in Java and C mainly, but have dabbled in SQL, Matlab, Python, HTML/CSS, Shell/AWK, LISP, C++, Prolog, Labview, Assembly
 - I know about transistor logic, operating systems, memory management, disk scheduling, algorithms and datastructures, MongoDB, JDBC, git, SCRUM
 - Secure Software: SQL Injection, Buffer Overflow, Command Injection, URL Injection, Java Security Manager, Least Privilege Principle, Encryption, Hashing/Salting
