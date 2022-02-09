@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregRRoss
-- 🌱 I’m currently learning ... Web Development
+- 🌱 I’m currently learning ... Web Development and Excel VBA
 - I code in Java, C, and Python mainly, but have dabbled in SQL, Matlab, HTML/CSS, Shell/AWK, LISP, C++, Prolog, Labview, Assembly
 - I know about transistor logic, operating systems, memory management, disk scheduling, algorithms and datastructures, MongoDB, JDBC, git, SCRUM
 - Secure Software: SQL Injection, Buffer Overflow, Command Injection, URL Injection, Java Security Manager, Least Privilege Principle, Encryption, Hashing/Salting
