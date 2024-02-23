@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GregRRoss
-- I a developer at OverTheSun LLC. I am also a student of Software Engineering  and a Teaching Assistant at ASU.
-- 🌱 I’m currently learning ... Web Applications
+- I a developer at OverTheSun LLC. 
+- 🌱 I’m currently learning ... 
 - I code in Java, C, Javascript, and Python mainly, but have dabbled in VBA, SQL, Matlab, HTML/CSS, Shell/AWK, LISP, C++, Prolog, Labview, Assembly
 - I know about transistor logic, operating systems, memory management, disk scheduling, algorithms and datastructures, MongoDB, JDBC, git, SCRUM
 - Secure Software: SQL Injection, Buffer Overflow, Command Injection, URL Injection, Java Security Manager, Least Privilege Principle, Encryption, Hashing/Salting
