@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregRRoss
-- I am a developer that has worked on OverTheSun, LLC and with Uber
+- I am a developer that has worked with OverTheSun, LLC and with Uber
 - 🌱 I’m currently learning ... Go
 - My coding language backgrounds include Java, C, Javascript, and Python mainly, but have dabbled in VBA, SQL, Matlab, HTML/CSS, Shell/AWK, LISP, C++, Prolog, Labview, Assembly
 - I know about transistor logic, operating systems, memory management, disk scheduling, algorithms and datastructures, MongoDB, JDBC, git, SCRUM
